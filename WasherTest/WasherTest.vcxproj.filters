@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\打印">
+      <UniqueIdentifier>{928c3e1b-6d83-4326-9143-29fd4ac45ae6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\工位设置">
+      <UniqueIdentifier>{f8581908-fc89-487e-bec8-d5054c629651}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\工位设置\工位设置选项对话框">
+      <UniqueIdentifier>{f0ae81ad-e7aa-4dd7-843f-23ca669e807a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\全局数据">
+      <UniqueIdentifier>{a62815f9-626c-4015-b9a3-df3c78e15c70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\打印">
+      <UniqueIdentifier>{037a319e-72ee-4567-846d-fa1eec613dc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\工位设置">
+      <UniqueIdentifier>{7febaf47-305f-4d06-a099-286d4d051f47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\工位设置\工位设置选项对话框">
+      <UniqueIdentifier>{bc9bb59c-7395-4b19-9a8b-ab4b57096d2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\全局数据">
+      <UniqueIdentifier>{2dcb2739-027a-4b77-8782-4ba699fe3496}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WasherTest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WasherTestDoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WasherTestView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WndStation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WndListTime.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WndGraphic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PreviewPrint.h">
+      <Filter>头文件\打印</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintDlg.h">
+      <Filter>头文件\打印</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintFrame.h">
+      <Filter>头文件\打印</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintView.h">
+      <Filter>头文件\打印</Filter>
+    </ClInclude>
+    <ClInclude Include="StationSetTabCtrlDlg.h">
+      <Filter>头文件\工位设置\工位设置选项对话框</Filter>
+    </ClInclude>
+    <ClInclude Include="StationSet.h">
+      <Filter>头文件\工位设置</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalData.h">
+      <Filter>头文件\全局数据</Filter>
+    </ClInclude>
+    <ClInclude Include="DetectionTaskDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogStationView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EXPANDINGDIALOG.H">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InitializeDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WasherTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WasherTestDoc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WasherTestView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WndStation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WndListTime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WndGraphic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PreviewPrint.cpp">
+      <Filter>源文件\打印</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintDlg.cpp">
+      <Filter>源文件\打印</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintFrame.cpp">
+      <Filter>源文件\打印</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintView.cpp">
+      <Filter>源文件\打印</Filter>
+    </ClCompile>
+    <ClCompile Include="StationSetTabCtrlDlg.cpp">
+      <Filter>源文件\工位设置\工位设置选项对话框</Filter>
+    </ClCompile>
+    <ClCompile Include="StationSet.cpp">
+      <Filter>源文件\工位设置</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalData.cpp">
+      <Filter>源文件\全局数据</Filter>
+    </ClCompile>
+    <ClCompile Include="DetectionTaskDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogStationView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EXPANDINGDIALOG.CPP">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="InitializeDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WasherTest.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\WasherTest.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\WasherTestDoc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\WasherTest.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
